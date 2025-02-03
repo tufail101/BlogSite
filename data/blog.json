@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction to Artificial Intelligence",
+      "author": "John Doe",
+      "date": "2024-02-03",
+      "category": "AI & Machine Learning",
+      "content": "Artificial Intelligence (AI) is revolutionizing the world. It involves the simulation of human intelligence in machines that can learn, reason, and self-correct.",
+      "image": "https://images.pexels.com/photos/8369644/pexels-photo-8369644.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Top Programming Languages in 2024",
+      "author": "Jane Smith",
+      "date": "2024-02-02",
+      "category": "Programming",
+      "content": "The top programming languages in 2024 include Python, JavaScript, and Go. Each has its strengths and is suited for different use cases.",
+      "image": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Web Development",
+      "author": "Alice Brown",
+      "date": "2024-02-01",
+      "category": "Web Development",
+      "content": "Web development trends are constantly evolving. With the rise of AI and Web3, the industry is set to see massive changes.",
+      "image": "https://images.pexels.com/photos/11035371/pexels-photo-11035371.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Cybersecurity Best Practices",
+      "author": "Bob Johnson",
+      "date": "2024-01-30",
+      "category": "Cybersecurity",
+      "content": "Cybersecurity is crucial in today’s digital age. Follow best practices like using strong passwords and enabling two-factor authentication.",
+      "image": "https://images.pexels.com/photos/5380661/pexels-photo-5380661.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Blockchain and Its Real-World Applications",
+      "author": "Charlie Davis",
+      "date": "2024-01-28",
+      "category": "Blockchain",
+      "content": "Blockchain technology is more than just cryptocurrency. It has applications in finance, healthcare, and supply chain management.",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "How to Get Started with Data Science",
+      "author": "Emily Wilson",
+      "date": "2024-01-25",
+      "category": "Data Science",
+      "content": "Data Science is a high-demand field. Learn Python, statistics, and machine learning to get started in this field.",
+      "image": "https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Cloud Computing: Everything You Need to Know",
+      "author": "David White",
+      "date": "2024-01-20",
+      "category": "Cloud Computing",
+      "content": "Cloud computing enables businesses to scale easily. Popular services include AWS, Azure, and Google Cloud.",
+      "image": "https://images.pexels.com/photos/442152/pexels-photo-442152.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "The Rise of Quantum Computing",
+      "author": "Sophia Green",
+      "date": "2024-01-15",
+      "category": "Quantum Computing",
+      "content": "Quantum computing is set to revolutionize problem-solving in cryptography and complex simulations.",
+      "image": "https://images.pexels.com/photos/1432679/pexels-photo-1432679.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "The Importance of Software Testing",
+      "author": "Liam Brown",
+      "date": "2024-01-10",
+      "category": "Software Engineering",
+      "content": "Software testing ensures quality and security in applications. Techniques include unit testing, integration testing, and more.",
+      "image": "https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Understanding DevOps and Its Benefits",
+      "author": "Olivia Martinez",
+      "date": "2024-01-05",
+      "category": "DevOps",
+      "content": "DevOps integrates development and operations to improve collaboration and efficiency in software development.",
+      "image": "https://images.pexels.com/photos/5473958/pexels-photo-5473958.jpeg"
+    }
+  ]
+}
