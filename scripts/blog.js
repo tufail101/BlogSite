@@ -18,7 +18,7 @@ fetch("./data/blog.json")
             <h2 class="text-xl font-bold text-gray-800">${blog.title}</h2>
             <p class="text-gray-600 mt-2">${blog.content}</p>
             <button class="mt-4 w-full bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">
-                Learn More
+                Read More
             </button>
         </div>
     </div>
