@@ -12,9 +12,16 @@ fetch("./data/blog.json")
         console.log(blog.content);
         let posts=document.createElement("div")
         posts.innerHTML=`
-        <div class='card'>
-        <h3>${blog.title}</h3>
+        <div class="max-w-sm bg-white rounded-2xl shadow-lg overflow-hidden mx-3 my-3">
+        <img class="w-full h-48 object-cover" src="${blog.image}" alt="Card Image">
+        <div class="p-5">
+            <h2 class="text-xl font-bold text-gray-800">${blog.title}</h2>
+            <p class="text-gray-600 mt-2">${blog.content}</p>
+            <button class="mt-4 w-full bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">
+                Learn More
+            </button>
         </div>
+    </div>
         `;
         container.appendChild(posts)
     });
